@@ -1,0 +1,45 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Top Bar Styling */
+.top-bar {
+  background-color: #00324e;
+  color: #f8a51b;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Segoe UI', 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  border-bottom: 2px solid #00263a;
+}
+
+.top-bar nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.top-bar nav a:ver {
+  color: #f8a51b;
+}

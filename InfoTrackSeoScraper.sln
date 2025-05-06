@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfoTrackSeoScraper.Main", "InfoTrackSeoScraper.Main\InfoTrackSeoScraper.csproj", "{53D0D734-9101-4842-8C1B-51A5D7922844}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfoTrackSeoScraper.Tests", "InfoTrackSeoScraper.Tests\InfoTrackSeoScraper.Tests.csproj", "{A78E2E65-23A2-4B94-80C6-467E3DCE8683}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {53D0D734-9101-4842-8C1B-51A5D7922844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {53D0D734-9101-4842-8C1B-51A5D7922844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {53D0D734-9101-4842-8C1B-51A5D7922844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {53D0D734-9101-4842-8C1B-51A5D7922844}.Release|Any CPU.Build.0 = Release|Any CPU
+        {A78E2E65-23A2-4B94-80C6-467E3DCE8683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {A78E2E65-23A2-4B94-80C6-467E3DCE8683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {A78E2E65-23A2-4B94-80C6-467E3DCE8683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {A78E2E65-23A2-4B94-80C6-467E3DCE8683}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+        SolutionGuid = {3F36BDCF-2677-4E8F-9B5E-F19BC8DD44DE}
+    EndGlobalSection
+EndGlobal
