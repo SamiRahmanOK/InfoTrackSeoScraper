@@ -23,7 +23,7 @@ A web application that scrapes search engine results to check the ranking positi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Malaphice/InfoTrackSeoScraper.git
+git clone https://github.com/SamiRahmanOK/InfoTrackSeoScraper.git
 cd InfoTrackSeoScraper
 ```
 
